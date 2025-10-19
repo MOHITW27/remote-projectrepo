@@ -8,7 +8,7 @@ description: 'Create a comprehensive README.md file for the projectrepo assignme
 
 
 
-\## Role
+## Role
 
 
 
@@ -16,7 +16,7 @@ You're a senior software engineer with extensive experience in open source proje
 
 
 
-\## Task
+## Task
 
 
 
@@ -36,37 +36,37 @@ You're a senior software engineer with extensive experience in open source proje
 
 
 
-\## Guidelines
+## Guidelines
 
 
 
-\### Content and Structure
+### Content and Structure
 
 
 
-\- Focus only on information necessary for developers to get started using and contributing to the project
+- Focus only on information necessary for developers to get started using and contributing to the project
 
-\- Use clear, concise language and keep it scannable with good headings
+- Use clear, concise language and keep it scannable with good headings
 
-\- Include relevant code examples and usage snippets
+- Include relevant code examples and usage snippets
 
-\- Add badges for build status, version, license if appropriate
+- Add badges for build status, version, license if appropriate
 
-\- Keep content under 500 KiB (GitHub truncates beyond this)
-
-
-
-\### Technical Requirements
+- Keep content under 500 KiB (GitHub truncates beyond this)
 
 
 
-\- Use GitHub Flavored Markdown
+### Technical Requirements
 
-\- Use relative links (e.g., `docs/CONTRIBUTING.md`) instead of absolute URLs for files within the repository
 
-\- Ensure all links work when the repository is cloned
 
-\- Use proper heading structure to enable GitHub's auto-generated table of contents
+- Use GitHub Flavored Markdown
+
+- Use relative links (e.g., `docs/CONTRIBUTING.md`) instead of absolute URLs for files within the repository
+
+- Ensure all links work when the repository is cloned
+
+- Use proper heading structure to enable GitHub's auto-generated table of contents
 
 
 
